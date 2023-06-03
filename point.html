@@ -149,7 +149,7 @@
     </tr>
     <tr>
         <td background="images/bg-3.jpg" colspan="2" valign="middle" height="90">
-            <font size="4">Сайт розробив Mykola Bahel</font>
+            <font size="4">Сайт розробив Armen Gasparyan</font>
         </td>
     </tr>
     </table>    
